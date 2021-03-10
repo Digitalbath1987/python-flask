@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Digital\Desktop\public</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="requirements.txt">
+      <publishTime>11/11/2020 12:58:17</publishTime>
+    </File>
+    <File Include="runserver.py">
+      <publishTime>03/10/2021 16:48:56</publishTime>
+    </File>
+    <File Include="todo/__init__.py">
+      <publishTime>03/10/2021 16:49:40</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
